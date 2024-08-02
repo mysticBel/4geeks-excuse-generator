@@ -1,0 +1,10 @@
+.div-excuse {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
